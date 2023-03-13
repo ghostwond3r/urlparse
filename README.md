@@ -1,5 +1,5 @@
 # URLPARSE
-> Reads a list of URLs from a file, extracts the domain from each URL, and prints it.
+> Reads a list of URLs from a file, extracts the domain from each URL, removes duplicates and prints the list of domains.
 <hr>
 
 1. clone
