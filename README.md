@@ -1,5 +1,5 @@
 > # URLPARSE
->> ## Reads a list of URLs from a file, extracts the domain from each URL, and prints it.
+>> ### Reads a list of URLs from a file, extracts the domain from each URL, and prints it.
 
 > 1. clone
 ```
