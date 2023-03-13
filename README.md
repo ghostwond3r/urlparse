@@ -5,7 +5,7 @@
 ```
 git clone https://github.com/NeverWonderLand/urlparse
 ```
-> 2. put you URLs in urls.txt
+> 2. put your URLs in urls.txt
 ```
 nano urls.txt
 ```
