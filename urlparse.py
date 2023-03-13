@@ -2,7 +2,7 @@ from urllib.parse import urlparse
 
 # Print banner
 print("*" * 30)
-print("URLsParse By Wond3r")
+print("URLParse By Wond3r")
 print("*" * 30)
 
 # Read the list of URLs from a file
