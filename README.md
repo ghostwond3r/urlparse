@@ -3,7 +3,7 @@
 
 > 1. clone
 ```
-git clone https://github.com/NeverWonderLand/urlparse
+git clone https://github.com/NeverWonderLand/urlparse.git
 ```
 > 2. put your URLs in urls.txt
 ```
