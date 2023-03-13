@@ -5,15 +5,11 @@
 ```
 git clone https://github.com/NeverWonderLand/urlparse
 ```
-> 2. requirements
-```
-pip3 install -r requirements.txt
-```
-> 3. put you URLs in urls.txt
+> 2. put you URLs in urls.txt
 ```
 nano urls.txt
 ```
-> 4. run the tool
+> 3. run the tool
 ```
 python3 urlparse.py
 ```
